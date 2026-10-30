@@ -1,0 +1,76 @@
+{
+  "orders": 330,
+  "delivered": 324,
+  "open": 6,
+  "overall_on_time_rate": 0.8611111111111112,
+  "min_deliveries": 20,
+  "watch_gap_percentage_points": 10.0,
+  "suppliers": [
+    {
+      "supplier": "Alpine Parts",
+      "orders": 55,
+      "delivered": 55,
+      "open": 0,
+      "on_time_rate": 0.9090909090909091,
+      "mean_delay_days": 0.32727272727272727,
+      "median_delay_days": 0,
+      "p90_delay_days": 0,
+      "status": "ok"
+    },
+    {
+      "supplier": "Cobalt Components",
+      "orders": 55,
+      "delivered": 54,
+      "open": 1,
+      "on_time_rate": 0.7037037037037037,
+      "mean_delay_days": 1.5,
+      "median_delay_days": 0,
+      "p90_delay_days": 5,
+      "status": "watch"
+    },
+    {
+      "supplier": "Delta Packaging",
+      "orders": 55,
+      "delivered": 54,
+      "open": 1,
+      "on_time_rate": 1.0,
+      "mean_delay_days": 0.0,
+      "median_delay_days": 0,
+      "p90_delay_days": 0,
+      "status": "ok"
+    },
+    {
+      "supplier": "Eastern Freight",
+      "orders": 55,
+      "delivered": 54,
+      "open": 1,
+      "on_time_rate": 0.7222222222222222,
+      "mean_delay_days": 2.0555555555555554,
+      "median_delay_days": 0,
+      "p90_delay_days": 8,
+      "status": "watch"
+    },
+    {
+      "supplier": "Fjord Materials",
+      "orders": 55,
+      "delivered": 54,
+      "open": 1,
+      "on_time_rate": 0.8333333333333334,
+      "mean_delay_days": 0.7962962962962963,
+      "median_delay_days": 0,
+      "p90_delay_days": 5,
+      "status": "ok"
+    },
+    {
+      "supplier": "Greenline Supply",
+      "orders": 55,
+      "delivered": 53,
+      "open": 2,
+      "on_time_rate": 1.0,
+      "mean_delay_days": 0.0,
+      "median_delay_days": 0,
+      "p90_delay_days": 0,
+      "status": "ok"
+    }
+  ]
+}

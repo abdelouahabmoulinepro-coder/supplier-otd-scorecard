@@ -1,0 +1,7 @@
+supplier,orders,delivered,open,on_time_rate,mean_delay_days,median_delay_days,p90_delay_days,status
+Alpine Parts,55,55,0,0.9090909090909091,0.32727272727272727,0,0,ok
+Cobalt Components,55,54,1,0.7037037037037037,1.5,0,5,watch
+Delta Packaging,55,54,1,1.0,0.0,0,0,ok
+Eastern Freight,55,54,1,0.7222222222222222,2.0555555555555554,0,8,watch
+Fjord Materials,55,54,1,0.8333333333333334,0.7962962962962963,0,5,ok
+Greenline Supply,55,53,2,1.0,0.0,0,0,ok
